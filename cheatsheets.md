@@ -12,7 +12,7 @@ Tilføj, når I finder noget fedt :rocket: :beer:
 - ...
 
 ## PostgreSQL
-- [PostgreSQL cheat sheet (Kardones)](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+- [PSQL (klient til PostgreSQL) cheatsheet af Kardones](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 - ...
 
 ## JavaScript
