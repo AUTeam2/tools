@@ -1,4 +1,4 @@
-# Cheatsheets og tricks
+# Cheatsheets, guides og tricks
 
 Tilføj, når I finder noget fedt :rocket: :beer:
 
@@ -12,8 +12,8 @@ Tilføj, når I finder noget fedt :rocket: :beer:
 - ...
 
 ## PostgreSQL
-- [PSQL (klient til PostgreSQL) cheatsheet af Kardones](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
-- ...
+- [psql (klient til PostgreSQL) cheatsheet af Kardones](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+- [Quick guide til psql](http://postgresguide.com/utilities/psql.html)
 
 ## JavaScript
 - ...
